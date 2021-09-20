@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<h1> HOLA COMO ESTAS </h1>
+		<h2> bein </h2>
 	</body>
 
 </html>
