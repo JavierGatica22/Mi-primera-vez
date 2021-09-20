@@ -1,0 +1,8 @@
+package com.package.main 
+
+public class main {
+	public static void main(String... argas){
+
+		System.out.println("uff que riesgo");
+}
+}
